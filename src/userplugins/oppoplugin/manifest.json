@@ -1,0 +1,12 @@
+{
+    "name": "GrindVerseFormPlugin",
+    "description": "A plugin to make staff logging easier",
+    "author": "Twitmund",
+    "version": "1.0.0",
+    "license": "MIT",
+    "hash": "",
+    "id": "grindverseformplugin",
+    "source": "https://github.com/TwitmundDev/GrindVerseVencordPlugin",
+    "updateUrl": "",
+    "enabled": true
+}
