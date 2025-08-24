@@ -264,7 +264,7 @@ function openFormModal() {
 export default definePlugin({
     name: "ChannelFormPopup",
     description: "Displays a sanction form via /openform.",
-    authors: [{ name: "TonNom", id: 0n }],
+    authors: [{ name: "Twitmund", id: 316941853725425666n }],
     commands: [{
         name: "openform",
         description: "Open the sanction form",
